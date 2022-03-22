@@ -1,6 +1,6 @@
 # delivery_recommend
 
-배치파일 형태 추천시스템. \
+추천시스템 로직 
 속도 개선을 위한 python async 적용
 
 ## user_comp_async.py
